@@ -1,0 +1,10 @@
+{
+    "name": "iaio/hello",
+    "description": "hello world",
+    "type": "framework",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "license": "mit",
+    "minimum-stability": "dev"
+}
